@@ -1,4 +1,4 @@
-## Olá, meu nome é Quezia. Seja bem vindo !! =)
+## Olá, meu nome é Quezia. Seja bem-vinda(o) !! =)
 Apaixonada por tecnologia, pela busca de novos conhecimentos e desafios, em 2021 me reconectei com a área de tecnologia, iniciando minha transição de carreira para o desenvolvimento de software.
 
 <div align="center">
