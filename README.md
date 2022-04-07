@@ -7,8 +7,8 @@ Apaixonada por tecnologia, pela busca de novos conhecimentos e desafios, em 2021
     <li>🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱 Aprendendo MySQL</li>
     <li> 😄 Pronomes: [ela/dela]</li>
-    <li> 📧 contate-me: <a href="qfonseca1@gmail.com"> e-mail</a>  </li>
-    <li> 📧 contate-me: <a href="www.linkedin.com/in/quezia-fonseca-de-lima"> linkedin</a> </li>
+<!--     <li> 📧 contate-me: <a href="qfonseca1@gmail.com"> e-mail</a>  </li>
+    <li> 📧 contate-me: <a href="www.linkedin.com/in/quezia-fonseca-de-lima"> linkedin</a> </li> -->
   </div>
 </div>
 📧 
@@ -38,9 +38,9 @@ Apaixonada por tecnologia, pela busca de novos conhecimentos e desafios, em 2021
 ---
 
 ### Contato
-
 <div>
-<!--   <a href="www.linkedin.com/in/quezia-fonseca-de-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:qfonseca1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/quezia-fonseca-de-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:qfonseca1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 
